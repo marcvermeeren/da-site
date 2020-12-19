@@ -174,7 +174,7 @@ iframe {
     }
     .mobile {
         display: block;
-        padding: 1em;
+        padding: 2em;
     }
     .mobileWrapperHome {
         display: block;
@@ -187,21 +187,20 @@ iframe {
     }
     .mobileIframe {
         height: 375px;
-        margin: 1em 0;
+        margin: 2em 0;
         border-radius: 0.5em;
         overflow: hidden;
     }
     .content{
         display: block;
         width: 100%;
-        padding: 0.5em 1em;
+        padding: 1em 1em;
         margin: 1em 0;
     }
     .buttons {
         display: block;
-        margin: 1em 0;
+        margin: 2em 0;
     }
-    
     .button {
         display: block;
         float: none;
@@ -210,5 +209,26 @@ iframe {
     .links {
         display: block;
         text-align: center;
+    }
+}
+
+
+@media (max-width: 425px) {
+    .desktop {
+        display: none;
+    }
+    .mobile {
+        padding: 1em;
+    }
+    .mobileIframe {
+        margin: 1.5em 0;
+    }
+    .content{
+        padding: 0.5em 1em;
+        margin: 1em 0;
+    }
+    .buttons {
+        display: block;
+        margin: 1em 0;
     }
 }
