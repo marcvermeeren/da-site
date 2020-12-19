@@ -5,7 +5,7 @@ title: Decentralized Agency - Colophon
 # Colophon
 
 ## Artwork
-<a href="https://ezekielaquino.com/" target="_blank">Ezekiel Aquino ↗</a>
+<a href="https://ezekielaquino.com/" target="_blank">Ezekiel Aquino</a>
 
 ## Website information
 Build with <a href="https://www.11ty.dev/" target="_blank">Eleventy</a>, hosted on <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
@@ -17,11 +17,11 @@ Name Surname, Name Surname, Name Surname, Name Surname, Name Surname, Name Surna
 [View our ground rules](/rules)
 
 ## Resources
-<a href="https://decentralizedagency.substack.com/" target="_blank">Substack ↗</a>\
-<a href="https://www.are.na/marc-vermeeren" target="_blank">Are.na ↗</a>
+<a href="https://decentralizedagency.substack.com/" target="_blank">Substack</a>\
+<a href="https://www.are.na/marc-vermeeren" target="_blank">Are.na</a>
 
 ## Collaboration enquiry
-[Email ↗](/rules)
+[Email](/rules)
 
 ## Contact
-<a href="https://discord.gg/DYP7QFaT" target="_blank">Join our public Discord channel ↗</a>
+<a href="https://discord.gg/DYP7QFaT" target="_blank">Join our public Discord channel</a>
