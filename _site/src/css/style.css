@@ -18,6 +18,11 @@ h1, h2 {
     font-weight: 600;
 }
 
+sub {
+    font-size: 14px;
+    color: grey;
+}
+
 a {
     color: #151516;
 }
@@ -39,7 +44,10 @@ a:hover {
 .content{
     width: 70vw;
     flex: 1;
-    padding: 1.5em 4em;
+    padding: 2em 4em;
+    border-radius: 0.5em;
+    margin: 5px;
+    border: 1px solid #E0E0E0;
 }
 
 .content a {
@@ -57,7 +65,6 @@ a:hover {
     flex-direction: column;
     max-width: 30vw;
     background-color: white;
-    border-right: 1px solid #E0E0E0;
     padding: 2em 2em 1.5em 2em;
 }
 
@@ -118,6 +125,9 @@ a:hover {
     width: 70vw;
     flex: 1;
     overflow-y: hidden;
+    border-radius: 0.5em;
+    margin: 5px;
+    border: 1px solid #E0E0E0;
 }
 
 iframe {
@@ -172,12 +182,14 @@ iframe {
     .mobileWrapper {
         display: block;
     }
+    .frame {
+        display: none;
+    }
     .mobileIframe {
         height: 300px;
         margin: 2em 0;
-    }
-    .frame {
-        display: none;
+        border-radius: 0.5em;
+        overflow: hidden;
     }
     .content{
         display: block;
