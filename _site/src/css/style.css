@@ -186,9 +186,11 @@ iframe {
         display: none;
     }
     .mobileIframe {
-        height: 375px;
-        margin: 2em 0;
+        -webkit-mask-image: -webkit-radial-gradient(white, black);
+        height: 525px;
         border-radius: 0.5em;
+        -webkit-border-radius: 0.5em;
+        -moz-border-radius: 0.5em;
         overflow: hidden;
     }
     .content{
@@ -209,6 +211,7 @@ iframe {
     .links {
         display: block;
         text-align: center;
+        margin-bottom: 2em;
     }
 }
 
