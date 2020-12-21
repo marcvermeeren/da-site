@@ -130,6 +130,12 @@ a:hover {
     border: 1px solid #E0E0E0;
 }
 
+canvas {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
 iframe {
     height: 100%;
     width: 100%;
@@ -185,14 +191,15 @@ iframe {
     .frame {
         display: none;
     }
-    .mobileIframe {
-        -webkit-mask-image: -webkit-radial-gradient(white, black);
+    .canvasMobile {
+        display: block;
         height: 525px;
         border-radius: 0.5em;
         -webkit-border-radius: 0.5em;
         -moz-border-radius: 0.5em;
         overflow: hidden;
         margin: 2em 0;
+        background-color: purple;
     }
     .content{
         display: block;
@@ -224,7 +231,7 @@ iframe {
     .mobile {
         padding: 1em;
     }
-    .mobileIframe {
+    .canvasMobile {
         margin: 1.5em 0;
     }
     .content{
