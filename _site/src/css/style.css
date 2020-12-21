@@ -10,8 +10,10 @@ body {
     line-height: 1.5em;
     color: #151516;
     background-color: white;
-
 }
+
+/* Type */
+
 
 h1, h2 {
     margin-top: 1em;
@@ -35,6 +37,16 @@ a:hover {
     color: rgb(121, 121, 121);
 }
 
+.content a {
+    color: rgb(121, 121, 121) !important;
+}
+
+.content a:hover {
+    color: rgba(121, 121, 121, 0.644) !important;
+}
+
+/* Wrappers */
+
 .desktop {
     display: flex;
     min-height: 100vh;
@@ -48,14 +60,6 @@ a:hover {
     border-radius: 0.5em;
     margin: 5px;
     border: 1px solid #E0E0E0;
-}
-
-.content a {
-    color: rgb(121, 121, 121) !important;
-}
-
-.content a:hover {
-    color: rgba(121, 121, 121, 0.644) !important;
 }
 
 /* Sidebar */
@@ -130,12 +134,6 @@ a:hover {
     border: 1px solid #E0E0E0;
 }
 
-canvas {
-    height: 100%;
-    width: 100%;
-    display: block;
-}
-
 iframe {
     height: 100%;
     width: 100%;
@@ -145,7 +143,30 @@ iframe {
     box-sizing: border-box;
 }
 
-/* Rules */
+/* canvas element */
+
+.homepage {
+    display: flex;
+    min-height: 100vh;
+    flex-flow: row wrap;
+}
+
+.canvasWrapper {
+    width: 70vw;
+    flex: 2;
+    overflow-y: hidden;
+    border-radius: 0.5em;
+    margin: 5px;
+    border: 1px solid #E0E0E0;
+}
+
+canvas {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+/* Rules Page */
 
 .rules  {
     border-collapse: collapse;
@@ -159,8 +180,7 @@ iframe {
     word-break: normal;
 }
 
-/* Mobile */
-
+/* Mobile Setup */
 
 .mobile {
     display: none;
@@ -174,7 +194,18 @@ iframe {
     display: none;
 }
 
+.homepageMobileLogo {
+    display: none;
+}
+
+.homepageMobileAbout {
+    display: none;
+}
+
 @media (max-width: 768px) {
+    .sidebar {
+        display: none;
+    }
     .desktop {
         display: none;
     }
@@ -191,15 +222,24 @@ iframe {
     .frame {
         display: none;
     }
-    .canvasMobile {
+    .homepage {
         display: block;
-        height: 525px;
-        border-radius: 0.5em;
-        -webkit-border-radius: 0.5em;
-        -moz-border-radius: 0.5em;
-        overflow: hidden;
-        margin: 2em 0;
-        background-color: purple;
+        min-height: 100vh;
+        flex-flow: row wrap;
+    }
+    .homepageMobileLogo {
+        display: block;
+        margin: 2em;
+    }
+    .homepageMobileAbout {
+        display: block;
+        margin: 2em;
+    }
+    .canvasWrapper {
+        width: auto;
+        height: 475px;
+        display: block;
+        margin: 2em 0.5em;
     }
     .content{
         display: block;
@@ -223,16 +263,12 @@ iframe {
     }
 }
 
-
 @media (max-width: 425px) {
     .desktop {
         display: none;
     }
     .mobile {
-        padding: 1em;
-    }
-    .canvasMobile {
-        margin: 1.5em 0;
+        padding: 2em;
     }
     .content{
         padding: 0.5em 1em 2em 1em;

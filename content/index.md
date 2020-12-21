@@ -1,4 +1,4 @@
 ---
-layout: page-iframe-home.njk
+layout: homepage.njk
 title: Decentralized Agency
 ---

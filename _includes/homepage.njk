@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include "head.njk" %}
+  </head>
+  <body>
+
+    <div class="homepage">
+
+      <div class="sidebar">
+        {% include "sidebar.njk" %}
+      </div>
+      
+      <div class="homepageMobileLogo">
+        <a href="/">
+          <img src="../src/img/da_logo.svg" alt="DA\"  width="75px">
+        </a>
+      </div>
+
+      <div class="canvasWrapper">
+      <canvas id="artwork" resize=“true” onload="initializeCollisions()"></canvas>
+      </div>
+      
+      <div class="homepageMobileAbout">
+      <p>
+        Agency is defined as the capacity to act.
+      </p>
+      <br>
+      <p>
+        Decentralized Agency increases this capacity by distributing one's agency between those we trust; formalizing feedback loops and social support.
+      </p>
+      <br>
+      <p>
+        As a collective we use this framework to work on both tangible and speculative projects that don’t aim to be commercially viable but rather shape viable futures.
+      </p>
+
+      <div class="buttons">
+          <a href="/thewhypaper" class="button">The Why Paper</a>
+          <a href="/openframework" class="button">Use Framework</a>
+      </div>
+
+      <nav class="links">
+        <ul>
+          <li><a href="https://decentralizedagency.substack.com/" target="_blank">Substack ↗</a></li>
+          <li><a href="https://discord.gg/DYP7QFaT" target="_blank">Discord ↗</a></li>
+          <li><a href="/colophon" class="colophon">Colophon</a></li>
+        </ul>
+      </nav>
+
+    </div>
+ 
+    <script src="https://ezekielaquino.com/external/collisions.js"></script>
+    <script src="/src/js/app.js"></script>
+    
+  </body>
+</html>
