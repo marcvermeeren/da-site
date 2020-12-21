@@ -3,6 +3,7 @@ layout: page.njk
 title: Decentralized Agency - Ground Rules
 ---
 # Ground Rules
+<sub>Last edited and agreed upon by all members at 17th of December, 2020.</sub>
 
 # Collective
 <table class="rules">            
@@ -190,4 +191,4 @@ title: Decentralized Agency - Ground Rules
                 <td>Member in question does not participate in vote.</td>
             </tr>
         </table>
-<sub>Last edited and agreed upon by all members at 17th of December, 2020.</sub>
+
