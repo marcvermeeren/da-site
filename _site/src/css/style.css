@@ -68,6 +68,7 @@ a:hover {
     display: flex;
     flex-direction: column;
     max-width: 30vw;
+    height: 100vh;
     background-color: white;
     padding: 2em 2em 1.5em 2em;
 }
@@ -147,8 +148,9 @@ iframe {
 
 .homepage {
     display: flex;
-    min-height: 100vh;
+    height: 100vh;
     flex-flow: row wrap;
+    overflow: hidden;
 }
 
 .canvasWrapper {
@@ -157,13 +159,13 @@ iframe {
     overflow-y: hidden;
     border-radius: 0.5em;
     margin: 5px;
-    border: 1px solid #E0E0E0;
+    border: 1px solid white;
 }
 
 canvas {
+    display: block;
     height: 100%;
     width: 100%;
-    display: block;
 }
 
 /* Rules Page */
