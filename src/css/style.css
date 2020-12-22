@@ -228,6 +228,7 @@ canvas {
         display: block;
         min-height: 100vh;
         flex-flow: row wrap;
+        overflow: scroll;
     }
     .homepageMobileLogo {
         display: block;
