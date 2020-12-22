@@ -228,7 +228,8 @@ canvas {
         display: block;
         min-height: 100vh;
         flex-flow: row wrap;
-        overflow: scroll;
+        overflow: visible;
+        -webkit-overflow-scrolling: touch; /* Lets it scroll lazy */
     }
     .homepageMobileLogo {
         display: block;
