@@ -263,7 +263,7 @@ canvas {
     .links {
         display: block;
         text-align: center;
-        margin-bottom: 2em;
+        padding-bottom: 2em;
     }
 }
 
