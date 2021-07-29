@@ -113,7 +113,7 @@ a:hover {
 .links li {
     display: inline;
     font-size: 14px;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 .colophon {
@@ -123,6 +123,43 @@ a:hover {
 .colophon:hover {
     color: rgba(121, 121, 121, 0.644) !important;
 }
+
+/* sidebar list */
+
+.projects {
+    margin: 2em 0 2em 0;
+}
+
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    border-bottom: 1px solid #E0E0E0;
+}
+  
+  .topRow {
+    border-top: 1px solid #E0E0E0;
+  }
+
+ .column {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+    padding: 0.5em 0 0.5em 0;
+ }
+
+ .leftColumn {
+     text-align: left;
+ }
+ 
+ .rightColumn {
+    text-align: right;
+    color: rgba(121, 121, 121, 0.644) !important;
+}
+
 
 /* iframe */
 
