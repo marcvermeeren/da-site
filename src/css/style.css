@@ -221,6 +221,10 @@ canvas {
 
 /* Mobile Setup */
 
+.projectsMobile {
+    display: none;
+}
+
 .mobile {
     display: none;
 }
@@ -301,6 +305,12 @@ canvas {
         display: block;
         text-align: center;
         padding-bottom: 2em;
+    }
+    .projectsMobile {
+        display: block;
+    }
+    .projectsDesktop {
+        display: none;
     }
 }
 
