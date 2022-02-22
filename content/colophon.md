@@ -2,6 +2,7 @@
 layout: page.njk
 title: Decentralized Agency - Colophon
 ---
+
 # Colophon
 
 ## "Collision" Artwork
