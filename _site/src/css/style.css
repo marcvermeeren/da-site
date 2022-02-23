@@ -43,12 +43,6 @@ a:hover {
     color: rgb(121, 121, 121);
 }
 
-hr {
-    border-top: 1px solid #E0E0E0;
-    border-bottom: 0px;
-  }
-
-
 .content a {
     color: rgb(121, 121, 121) !important;
 }
@@ -56,6 +50,29 @@ hr {
 .content a:hover {
     color: rgba(121, 121, 121, 0.644) !important;
 }
+
+.reachOut {
+    color: #151516 !important;
+    border: 1px solid #E0E0E0;
+    padding: 2em 4em;
+    border-radius: 0.5em;
+    margin: 3em 0 3em 0;
+}
+
+.content a.reachOutLink {
+    color: rgb(0, 0, 0) !important;
+}
+
+.content a:hover.reachOutLink {
+    color: rgba(121, 121, 121, 1) !important;
+}
+
+
+hr {
+    border-top: 1px solid #E0E0E0;
+    border-bottom: 0px;
+  }
+
 
 /* Wrappers */
 

@@ -9,9 +9,11 @@ title: Decentralized Agency - About Us
 With this approach, we aim to navigate, envision and realize radical futures, new cultural currents and a post-capitalist common sense.
 <br/><br/>
 Ideally we devise ways to simultaneously adapt to the futures that are already underway while preventing those that imply further harm.
-<br/><br/>
-Don’t hesitate to reach out about our Recon Research, Storied Strategy, System Design and World Building services.
-<br/><br/>
+
+<div class="reachOut">
+<a href="mailto: decentralizedagency@gmail.com" target="_blank" class="reachOutLink">Don’t hesitate to reach out about our services →</a><br>
+<span style="color:rgba(121, 121, 121, 1)">(Recon Research, Storied Strategy, System Design and World Building)</span>
+</div>
 
 # Rather than competitive isolation, we choose active entanglement across:
 
