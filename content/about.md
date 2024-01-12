@@ -19,7 +19,7 @@ We are currently two creative minds supporting each other in this on-going searc
 </div>
 
 
-# Founded <a href="https://bryanwolff.com" target="_blank">Bryan Wolff</a> and <a href="https://marcvermeeren.com/" target="_blank">Marc Vermeeren</a> after spending 10+ years as Creative Directors, DA seeks to break out of competitive isolation and into active entanglement across;
+# Founded by <a href="https://bryanwolff.com" target="_blank">Bryan Wolff</a> and <a href="https://marcvermeeren.com/" target="_blank">Marc Vermeeren</a> after spending 10+ years as Creative Directors, DA seeks to break out of competitive isolation and into active entanglement across;
 
 # Companions
 
