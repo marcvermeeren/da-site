@@ -18,18 +18,30 @@ We are currently two creative minds supporting each other in this on-going searc
 <a href="mailto: decentralizedagency@gmail.com" target="_blank" class="reachOutLink">Don’t hesitate to reach out about our services  (we mean that!) →</a><br>
 </div>
 
+
 # Founded <a href="https://bryanwolff.com" target="_blank">Bryan Wolff</a> and <a href="https://marcvermeeren.com/" target="_blank">Marc Vermeeren</a> after spending 10+ years as Creative Directors, DA seeks to break out of competitive isolation and into active entanglement across;
 
 # Companions
-<a href="https://danielsumarna.com/" target="_blank">Daniël Sumarna (Creative Director)</a>
 
-<a href="https://socialserviceclub.io/" target="_blank">Carla Camilla Hjort (Entrepreneur)</a>
+<a href="https://www.instagram.com/emmadietze/" target="_blank">Emma Dietze</a>
 
-<a href="https://www.instagram.com/dg.banks/?hl=en" target="_blank">Doug Banks (Researcher/Writer)</a>
+<a href="http://yasmindikkeboom.com" target="_blank">Yasmin Dikkeboom</a>
 
-<a href="https://ida-simon.com/" target="_blank">ida—ssi (collaborative artist practice)</a>
+<a href="https://danielsumarna.com/" target="_blank">Daniël Sumarna</a>
+
+<a href="https://carstengoertz.cc" target="_blank">Carsten Goertz</a>
+
+<a href="https://socialserviceclub.io/" target="_blank">Carla Camilla Hjort</a>
+
+<a href="https://www.instagram.com/dg.banks/?hl=en" target="_blank">Doug Banks</a>
+
+<a href="https://ida-simon.com/" target="_blank">ida—ssi</a>
 
 # Communities
+<a href="http://p-o.space" target="_blank">post-office</a>
+
+<a href="https://real-review.org" target="_blank">Real Review</a>
+
 <a href="http://newmodels.io" target="_blank">New Models</a>
 
 <a href="http://trust.support" target="_blank">Trust</a>
@@ -39,6 +51,8 @@ We are currently two creative minds supporting each other in this on-going searc
 <a href="https://socialserviceclub.io/" target="_blank">Social Service Club</a>
 
 <a href="https://likeminds.camp" target="_blank">Likeminds</a>
+
+<a href="http://n-m.world" target="_blank">Neo-Metabolism</a>
 
 # Companies
 <a href="https://www.sanctuary.computer/" target="_blank">Sanctuary Computer</a>
@@ -50,5 +64,7 @@ We are currently two creative minds supporting each other in this on-going searc
 <a href="https://www.icagruppen.se/en/" target="_blank">ICA</a>
 
 <a href="https://www.accenture.com/" target="_blank">Accenture</a>
+
+<a href="https://www.apossible.com/" target="_blank">APOSSIBLE</a>
 
 
