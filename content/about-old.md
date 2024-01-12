@@ -2,23 +2,20 @@
 layout: page.njk
 title: Decentralized Agency - About Us
 ---
+
+### To increase our capacity to act (agency) we believe we have to deepen our entanglement with each other (decentralized); as a practice, species and planet.
+
 <br/>
-We are in search of more agency, i.e. any amount of impact on the world around us. We believe this can be found in other people: by coming together for common goals and shared futures.
-<br/>
-<br/>
-That's why, as an open creative practice, we pursue projects that benefit all parties involved rather than just ourselves or the bottom line of any single person.
-<br/>
-<br/>
-Instead of pursuing our own artistic expressions, we prefer helping to communicate and articulate urgent and even existing ideas that are essential to opening up more futures for more people.
-<br/>
-<br/>
-We are currently two creative minds supporting each other in this on-going search, but our practice is open for all to join whether as collaborator or co-creative.
+With this approach, we aim to navigate, envision and realize radical futures, new cultural currents and a post-capitalist common sense.
+<br/><br/>
+Ideally we devise ways to simultaneously adapt to the futures that are already underway while preventing those that imply further harm.
 
 <div class="reachOut">
-<a href="mailto: decentralizedagency@gmail.com" target="_blank" class="reachOutLink">Don’t hesitate to reach out about our services  (we mean that!) →</a><br>
+<a href="mailto: decentralizedagency@gmail.com" target="_blank" class="reachOutLink">Don’t hesitate to reach out about our services →</a><br>
+<span style="color:rgba(121, 121, 121, 1)">(Recon Research, Storied Strategy, System Design and World Building)</span>
 </div>
 
-# Founded <a href="https://bryanwolff.com" target="_blank">Bryan Wolff</a> and <a href="https://marcvermeeren.com/" target="_blank">Marc Vermeeren</a> after spending 10+ years as Creative Directors, DA seeks to break out of competitive isolation and into active entanglement across;
+# Founded Bryan Wolff and Marc Vermeeren after spending 10+ years as Creative Directors, DA seeks to break out of competitive isolation and into active entanglement across;
 
 # Companions
 <a href="https://danielsumarna.com/" target="_blank">Daniël Sumarna (Creative Director)</a>
